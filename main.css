@@ -1,0 +1,12 @@
+body {
+  background-color: goldenrod;
+}
+
+.smallerText {
+  font-size: .2em;
+
+}
+
+.largeText {
+  font-size: 2em;
+}
